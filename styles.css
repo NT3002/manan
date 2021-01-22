@@ -13,11 +13,18 @@ body {
     font-size: 60px;
     color: red;   
 }
-
-.text {
-    font-family: 'Satisfy',cursive ,bold;
+.text {    
+   
+    font-family: 'Satisfy',cursive,bold;
     text-align: center;
-    font-size: 30px;
+    font-size: 32px;
+    color: yellow;   
+}
+
+.temp {
+    font-family: 'Satisfy',cursive ;
+    text-align: center;
+    font-size: 25px;
     color: yellowgreen;
     
 }
@@ -25,7 +32,7 @@ body {
 .link {
     font-family: 'Satisfy',cursive ;
     text-align: center;
-    font-size: 20px;
+    font-size: 18px;
     
 }
 
