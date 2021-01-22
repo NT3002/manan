@@ -1,0 +1,31 @@
+/* CREATED BY NIKHIL TIWARI  */
+
+
+
+body {
+    background-image:url("https://adatis.co.uk/wp-content/uploads/front-1400x788.png");
+    background-size: 100%;
+}
+.head {    
+   
+    font-family: 'Satisfy',bold;
+    text-align: center;
+    font-size: 60px;
+    color: red;   
+}
+
+.text {
+    font-family: 'Satisfy',cursive ,bold;
+    text-align: center;
+    font-size: 30px;
+    color: yellowgreen;
+    
+}
+
+.link {
+    font-family: 'Satisfy',cursive ;
+    text-align: center;
+    font-size: 20px;
+    
+}
+
